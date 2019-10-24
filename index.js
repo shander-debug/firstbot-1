@@ -69,4 +69,4 @@ message.delete().catch()
 }
 
 	});
-client.login('NjI2MDM4NjQyMjg4MDk5MzM4.Xa8OgQ.MVMoHxe_bqpfzGA7pv7Dyjopd88')
+client.login(process.env.token)
